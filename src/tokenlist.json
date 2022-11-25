@@ -1,0 +1,44 @@
+{
+    "name": "MemeticSwap List",
+    "timestamp": "2022-11-24T00:00:00.000Z",
+    "logoURI": "https://memeticswap.com/favicon.ico",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "name": "Pom USD Ethereum-bridged",
+            "address": "0x27d789b89a441ccb6fcdb92650f1e667c965df7a",
+            "symbol": "PUSDe",
+            "decimals": 6,
+            "chainId": 18159,
+            "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0x27d789b89a441ccb6fcdb92650f1e667c965df7a/logo.png"
+        },
+        {
+            "name": "Wrapped POM",
+            "address": "0xC84D8d03aA41EF941721A4D77b24bB44D7C7Ac55",
+            "symbol": "WPOM",
+            "decimals": 18,
+            "chainId": 18159,
+            "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0xC84D8d03aA41EF941721A4D77b24bB44D7C7Ac55/logo.png"
+        },
+        {
+            "name": "Meme Shib",
+            "address": "0x71993AE0419422810600248019619c2f9F073030",
+            "symbol": "MS",
+            "decimals": 18,
+            "chainId": 18159,
+            "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/memeshib.jpg"
+        },
+        {
+            "name": "One Dollar POMillionaire",
+            "address": "0x441ed5Fb260a74fCFEBA66648E2cd627599a5aE8",
+            "symbol": "DOLLAR",
+            "decimals": 18,
+            "chainId": 18159,
+            "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/pomillionaire.jpg"
+        }
+    ]
+}
