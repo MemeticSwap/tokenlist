@@ -5,7 +5,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -28,7 +28,7 @@
             "name": "Meme Shib",
             "address": "0x71993AE0419422810600248019619c2f9F073030",
             "symbol": "MS",
-            "decimals": 18,
+            "decimals": 9,
             "chainId": 18159,
             "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/memeshib.jpg"
         },
