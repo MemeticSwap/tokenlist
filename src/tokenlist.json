@@ -1,11 +1,11 @@
 {
     "name": "MemeticSwap List",
-    "timestamp": "2022-11-28T20:01:25.000Z",
+    "timestamp": "2022-11-28T20:09:33.000Z",
     "logoURI": "https://memeticswap.com/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 1,
-        "patch": 1
+        "minor": 2,
+        "patch": 0
     },
     "tokens": [
         {
@@ -47,6 +47,14 @@
             "decimals": 18,
             "chainId": 18159,
             "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/pompit.png"
+        },
+        {
+            "name": "POMhub",
+            "address": "0xB484F1Edfb4e1c738D81bCA8d89df742FaEb9229",
+            "symbol": "POMhub",
+            "decimals": 18,
+            "chainId": 18159,
+            "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/pomhub.webp"
         }
     ]
 }
