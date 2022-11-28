@@ -1,11 +1,11 @@
 {
     "name": "MemeticSwap List",
-    "timestamp": "2022-11-24T00:00:00.000Z",
+    "timestamp": "2022-11-28T04:00:00.000Z",
     "logoURI": "https://memeticswap.com/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 0,
-        "patch": 1
+        "minor": 1,
+        "patch": 0
     },
     "tokens": [
         {
@@ -39,6 +39,14 @@
             "decimals": 18,
             "chainId": 18159,
             "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/pomillionaire.jpg"
+        },
+        {
+            "name": "POMpIT",
+            "address": "0xc23235694B2Fdff0B975Ec8Bc47299CB6F2FcC74",
+            "symbol": "POMpIT",
+            "decimals": 18,
+            "chainId": 18159,
+            "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/pomsauce.png"
         }
     ]
 }
