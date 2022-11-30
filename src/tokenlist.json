@@ -4,10 +4,18 @@
     "logoURI": "https://memeticswap.com/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
     "tokens": [
+        {
+            "name": "Memetic",
+            "address": "0xE5Ca307249662fe2Dc4c91c91aab44ea8578E671",
+            "symbol": "MEMETIC",
+            "decimals": 18,
+            "chainId": 18159,
+            "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/memetic.png"
+        },
         {
             "name": "Pom USD Ethereum-bridged",
             "address": "0x27d789b89a441ccb6fcdb92650f1e667c965df7a",
