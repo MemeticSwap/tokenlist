@@ -1,11 +1,11 @@
 {
     "name": "MemeticSwap List",
-    "timestamp": "2022-11-29T02:09:33.000Z",
+    "timestamp": "2022-02-29T03:13:37.666Z",
     "logoURI": "https://memeticswap.com/favicon.ico",
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -76,7 +76,7 @@
             "name": "FLOKI ON POMCHAIN",
             "address": "0x3B13A9BB49316dbbe009947142f995bFa005aE36",
             "symbol": "POMF",
-            "decimals": 18,
+            "decimals": 9,
             "chainId": 18159,
             "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/pomfloki.jpg"
         }
