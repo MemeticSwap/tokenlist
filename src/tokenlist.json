@@ -1,11 +1,11 @@
 {
     "name": "MemeticSwap List",
-    "timestamp": "2022-02-29T03:13:37.666Z",
+    "timestamp": "2022-12-03T16:04:09+00:00",
     "logoURI": "https://memeticswap.com/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 4,
-        "patch": 1
+        "minor": 5,
+        "patch": 0
     },
     "tokens": [
         {
@@ -31,6 +31,14 @@
             "decimals": 18,
             "chainId": 18159,
             "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0xC84D8d03aA41EF941721A4D77b24bB44D7C7Ac55/logo.png"
+        },
+        {
+            "name": "TetherUSD BSC-bridged",
+            "address": "0x326d041519E24fE843ce313CFB8D0F07F653B2C7",
+            "symbol": "USDT",
+            "decimals": 18,
+            "chainId": 18159,
+            "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/usdt.webp"
         },
         {
             "name": "Meme Shib",
