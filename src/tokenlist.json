@@ -4,7 +4,7 @@
     "logoURI": "https://memeticswap.com/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
     },
     "tokens": [
@@ -39,6 +39,14 @@
             "decimals": 18,
             "chainId": 18159,
             "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/usdt.webp"
+        },
+        {
+            "name": "POM Build",
+            "address": "0x0d15784A244edf7a375b6e7211FfeDD212eA48d5",
+            "symbol": "PBUILD",
+            "decimals": 18,
+            "chainId": 18159,
+            "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/pbuild.jpg"
         },
         {
             "name": "Meme Shib",
