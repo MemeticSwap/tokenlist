@@ -4,7 +4,7 @@
     "logoURI": "https://memeticswap.com/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     },
     "tokens": [
@@ -39,6 +39,14 @@
             "decimals": 18,
             "chainId": 18159,
             "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/usdt.webp"
+        },
+        {
+            "name": "POMzi Coin",
+            "address": "0x9b63aEc23bEeA0291Eb57fdcd9d8e92fF9D7C5E5",
+            "symbol": "POMZI",
+            "decimals": 18,
+            "chainId": 18159,
+            "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/pomzi.png"
         },
         {
             "name": "POM Build",
