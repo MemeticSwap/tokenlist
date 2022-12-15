@@ -1,10 +1,10 @@
 {
     "name": "MemeticSwap List",
-    "timestamp": "2022-12-05T14:01:09+00:00",
+    "timestamp": "2022-12-15T14:01:09+00:00",
     "logoURI": "https://memeticswap.com/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     },
     "tokens": [
@@ -39,6 +39,22 @@
             "decimals": 18,
             "chainId": 18159,
             "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/usdt.webp"
+        },
+        {
+            "name": "POM GOVERNANCE",
+            "address": "0x8BB07ad76ADdE952e83f2876c9bDeA9cc5B3a51E",
+            "symbol": "POMG",
+            "decimals": 18,
+            "chainId": 18159,
+            "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0xC84D8d03aA41EF941721A4D77b24bB44D7C7Ac55/logo.png"
+        },
+        {
+            "name": "Pomeranian",
+            "address": "0x58843CB63012e7C2Ad643857977efD32147a3C23",
+            "symbol": "POMD",
+            "decimals": 18,
+            "chainId": 18159,
+            "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/pomd.jpg"
         },
         {
             "name": "POMzi Coin",
