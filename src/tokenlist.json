@@ -1,10 +1,10 @@
 {
     "name": "MemeticSwap List",
-    "timestamp": "2022-12-15T14:01:09+00:00",
+    "timestamp": "2022-12-15T19:01:09+00:00",
     "logoURI": "https://memeticswap.com/favicon.ico",
     "version": {
-        "major": 1,
-        "minor": 9,
+        "major": 2,
+        "minor": 0,
         "patch": 0
     },
     "tokens": [
@@ -66,7 +66,7 @@
         },
         {
             "name": "POM Build",
-            "address": "0x0d15784A244edf7a375b6e7211FfeDD212eA48d5",
+            "address": "0x091FA2d92e2b2358bE97b2a0bAaB8398EEC144Cf",
             "symbol": "PBUILD",
             "decimals": 18,
             "chainId": 18159,
