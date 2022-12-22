@@ -1,10 +1,10 @@
 {
     "name": "MemeticSwap List",
-    "timestamp": "2022-12-15T19:01:09+00:00",
+    "timestamp": "2022-12-22T19:01:09+00:00",
     "logoURI": "https://memeticswap.com/favicon.ico",
     "version": {
         "major": 2,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
@@ -63,6 +63,14 @@
             "decimals": 18,
             "chainId": 18159,
             "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/pomzi.png"
+        },
+        {
+            "name": "Wild West Token",
+            "address": "0xb4d74d6ad8d06289e646be3de2cd7000eba5b09f",
+            "symbol": "WWT",
+            "decimals": 18,
+            "chainId": 18159,
+            "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/wwt.png"
         },
         {
             "name": "POM Build",
