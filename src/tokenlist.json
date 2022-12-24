@@ -1,10 +1,10 @@
 {
     "name": "MemeticSwap List",
-    "timestamp": "2022-12-22T19:01:09+00:00",
+    "timestamp": "2022-12-25T00:01:09+00:00",
     "logoURI": "https://memeticswap.com/favicon.ico",
     "version": {
         "major": 2,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "tokens": [
@@ -103,6 +103,14 @@
             "decimals": 9,
             "chainId": 18159,
             "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/pomfloki.jpg"
+        },
+        {
+            "name": "xMemetic",
+            "address": "0x97623f3149D1132f89961B210061eCE587768E51",
+            "symbol": "xMEMETIC",
+            "decimals": 18,
+            "chainId": 18159,
+            "logoURI": "https://raw.githubusercontent.com/MemeticSwap/tokenlist/master/logos/xmemetic.png"
         }
     ]
 }
